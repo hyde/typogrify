@@ -2,7 +2,7 @@ from setuptools import setup, find_packages
 
 
 setup(
-    name='typogrify',
+    name='typogrify-hyde',
     version='1.0.1a',
     packages=find_packages(),
     author='Christian Metts',
