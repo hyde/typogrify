@@ -1,3 +1,8 @@
+# This fork is obsolete and will be deleted soon.
+## The original typogrify repository has the jinja2 filters
+
+(Also available on pypi: https://pypi.python.org/pypi/typogrify)
+
     Note: This fork tries to separate the general purpose logic from django
     related code so that it can be used with other template engines like
     Jinja2.
